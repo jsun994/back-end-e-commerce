@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Jay Sun - [email me](jaysun054@gmail.com)
+Jay Sun - [email me](mailto:jaysun054@gmail.com)
 
 [contributors-shield]: https://img.shields.io/github/contributors/jsun994/back-end-e-commerce.svg?style=for-the-badge
 [contributors-url]: https://github.com/jsun994/back-end-e-commerce/graphs/contributors
