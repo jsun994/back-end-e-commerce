@@ -19,7 +19,7 @@
     <a href="https://github.com/jsun994/back-end-e-commerce/tree/main/Develop"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://drive.google.com/file/d/1bzdLWvO4Swb006muuZ-5QJXlJLEJyxp2/view">View Demo</a>
     ·
     <a href="https://github.com/jsun994/back-end-e-commerce/issues">Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 ## About The Project
 
 ![media1](./media/ss1.png)
-Demo Video - [Screencastify - Google Drive]()
+Demo Video - [Screencastify - Google Drive](https://drive.google.com/file/d/1bzdLWvO4Swb006muuZ-5QJXlJLEJyxp2/view)
 
 ### Built With
 
